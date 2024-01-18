@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @betteagiacomelli Most people call me Tia or Bettylou, which is my real name.
+- 👋 Hi, I’m @betteagiacomelli Most people call me Tia or Bettylou, which is how you say my real name.
 - 👀 I’m interested in becoming more proficient in working with systems at all levels. I want to become more comfortable navigating systems and computers.
 - 🌱 I’m currently learning programing, networking, security, Linux and AWS. 
 - 💞️ I’m looking to collaborate on everything/anything that anyone wants to work on with me. I am new to this so I would like to learn as much from anyone as I can.
