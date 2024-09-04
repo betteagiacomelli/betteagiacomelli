@@ -5,7 +5,7 @@
 - 📫 How to reach me bettea@hawaii.edu or 808-754-7632 or Bettea Giacomelli / bettea_58606 on Github or https://www.linkedin.com/in/teagiacomelli/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have worked as a Recruiter and still continue to recruit candidates in the areas of Technology, Accounting and Administration for professional corporate companies with www.strategentsearch.com I am working on my degree to allow me to be more competitive in
-- obtaining government contracts for this business.  
+the market.
 
 <!---
 betteagiacomelli/betteagiacomelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
